@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Kvadrat\bin\Debug\net6.0\Kvadrat.exe
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Kvadrat\bin\Debug\net6.0\Kvadrat.deps.json
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Kvadrat\bin\Debug\net6.0\Kvadrat.runtimeconfig.json
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Kvadrat\bin\Debug\net6.0\Kvadrat.dll
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Kvadrat\bin\Debug\net6.0\Kvadrat.pdb
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Kvadrat\obj\Debug\net6.0\Kvadrat.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Kvadrat\obj\Debug\net6.0\Kvadrat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Kvadrat\obj\Debug\net6.0\Kvadrat.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Kvadrat\obj\Debug\net6.0\Kvadrat.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Kvadrat\obj\Debug\net6.0\Kvadrat.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Kvadrat\obj\Debug\net6.0\Kvadrat.dll
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Kvadrat\obj\Debug\net6.0\refint\Kvadrat.dll
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Kvadrat\obj\Debug\net6.0\Kvadrat.pdb
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Kvadrat\obj\Debug\net6.0\Kvadrat.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Kvadrat\obj\Debug\net6.0\ref\Kvadrat.dll

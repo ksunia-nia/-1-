@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\number N\bin\Debug\net6.0\number N.exe
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\number N\bin\Debug\net6.0\number N.deps.json
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\number N\bin\Debug\net6.0\number N.runtimeconfig.json
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\number N\bin\Debug\net6.0\number N.dll
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\number N\bin\Debug\net6.0\number N.pdb
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\number N\obj\Debug\net6.0\number N.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\number N\obj\Debug\net6.0\number N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\number N\obj\Debug\net6.0\number N.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\number N\obj\Debug\net6.0\number N.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\number N\obj\Debug\net6.0\number N.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\number N\obj\Debug\net6.0\number N.dll
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\number N\obj\Debug\net6.0\refint\number N.dll
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\number N\obj\Debug\net6.0\number N.pdb
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\number N\obj\Debug\net6.0\number N.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\number N\obj\Debug\net6.0\ref\number N.dll

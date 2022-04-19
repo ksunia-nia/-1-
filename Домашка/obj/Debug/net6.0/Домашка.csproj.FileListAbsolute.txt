@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Домашка\obj\Debug\net6.0\Домашка.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Домашка\obj\Debug\net6.0\Домашка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Домашка\obj\Debug\net6.0\Домашка.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Домашка\obj\Debug\net6.0\Домашка.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Домашка\obj\Debug\net6.0\Домашка.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Домашка\bin\Debug\net6.0\Домашка.exe
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Домашка\bin\Debug\net6.0\Домашка.deps.json
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Домашка\bin\Debug\net6.0\Домашка.runtimeconfig.json
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Домашка\bin\Debug\net6.0\Домашка.dll
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Домашка\bin\Debug\net6.0\Домашка.pdb
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Домашка\obj\Debug\net6.0\Домашка.dll
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Домашка\obj\Debug\net6.0\refint\Домашка.dll
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Домашка\obj\Debug\net6.0\Домашка.pdb
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Домашка\obj\Debug\net6.0\Домашка.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Домашка\obj\Debug\net6.0\ref\Домашка.dll

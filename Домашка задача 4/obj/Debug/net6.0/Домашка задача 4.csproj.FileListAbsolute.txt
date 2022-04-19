@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Домашка задача 4\obj\Debug\net6.0\Домашка задача 4.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Домашка задача 4\obj\Debug\net6.0\Домашка задача 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Домашка задача 4\obj\Debug\net6.0\Домашка задача 4.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Домашка задача 4\obj\Debug\net6.0\Домашка задача 4.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Домашка задача 4\obj\Debug\net6.0\Домашка задача 4.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Домашка задача 4\bin\Debug\net6.0\Домашка задача 4.exe
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Домашка задача 4\bin\Debug\net6.0\Домашка задача 4.deps.json
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Домашка задача 4\bin\Debug\net6.0\Домашка задача 4.runtimeconfig.json
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Домашка задача 4\bin\Debug\net6.0\Домашка задача 4.dll
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Домашка задача 4\bin\Debug\net6.0\Домашка задача 4.pdb
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Домашка задача 4\obj\Debug\net6.0\Домашка задача 4.dll
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Домашка задача 4\obj\Debug\net6.0\refint\Домашка задача 4.dll
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Домашка задача 4\obj\Debug\net6.0\Домашка задача 4.pdb
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Домашка задача 4\obj\Debug\net6.0\Домашка задача 4.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Домашка задача 4\obj\Debug\net6.0\ref\Домашка задача 4.dll

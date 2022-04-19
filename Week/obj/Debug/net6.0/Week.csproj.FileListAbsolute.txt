@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Week\bin\Debug\net6.0\Week.exe
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Week\bin\Debug\net6.0\Week.deps.json
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Week\bin\Debug\net6.0\Week.runtimeconfig.json
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Week\bin\Debug\net6.0\Week.dll
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Week\bin\Debug\net6.0\Week.pdb
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Week\obj\Debug\net6.0\Week.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Week\obj\Debug\net6.0\Week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Week\obj\Debug\net6.0\Week.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Week\obj\Debug\net6.0\Week.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Week\obj\Debug\net6.0\Week.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Week\obj\Debug\net6.0\Week.dll
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Week\obj\Debug\net6.0\refint\Week.dll
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Week\obj\Debug\net6.0\Week.pdb
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Week\obj\Debug\net6.0\Week.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ГИК_ГИТ\Язык C#\Первое занятие\Семинар 1практика 14.04.22\Week\obj\Debug\net6.0\ref\Week.dll
